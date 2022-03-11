@@ -23,7 +23,7 @@ class Bala:
                 glVertex3f(0.01,-0.01,0.0)
                 glVertex3f(-0.01,-0.01,0.0)
                 glEnd()
-                glPopMatrix()
+                glPopMatrix() 
 
     def actualizar(self, tiempo_delta):
         if self.disparando:

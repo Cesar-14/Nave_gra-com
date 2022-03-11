@@ -5,7 +5,7 @@ class Modelo:
     @posicion_x.setter
     def posicion_x(self,posicion_x):
         self._posicion_x = posicion_x
-
+ 
     @property
     def posicion_y(self):
         return self._posicion_y

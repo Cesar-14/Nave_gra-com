@@ -4,7 +4,7 @@ from glew_wish import *
 import glfw
 import math
 
-class Asteroide:
+class Asteroide: 
     posicion_x = -0.2
     posicion_y = 0.0
     posicion_z = 0.0

@@ -8,7 +8,7 @@ from Bala import *
 
 class Nave(Modelo):
     velocidad = 1.2
-    angulo = 0.0
+    angulo = 0.0 
     velocidad_rotacion = 270.0
     fase = 90.0
     balas = [Bala(), Bala(), Bala(), Bala(), Bala()]
