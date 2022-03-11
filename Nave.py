@@ -1,5 +1,6 @@
 #La nomenclatura indica que la primera letra del nombre de una clase va en mayusculas
 from OpenGL.GL import *
+from Modelo import Modelo
 from glew_wish import *
 import glfw
 import math
